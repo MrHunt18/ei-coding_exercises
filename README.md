@@ -427,34 +427,6 @@ The application handles errors gracefully:
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] Persist data to database/file
-- [ ] Add recurring tasks support
-- [ ] Implement task dependencies
-- [ ] Add GUI interface
-- [ ] Multi-user support with authentication
-- [ ] Calendar export (iCal format)
-- [ ] Email/SMS notifications
-- [ ] Task categories and tags
-- [ ] Search functionality
-- [ ] Undo/Redo operations
-
----
-
-## 👥 Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork the repository
-2. Create a feature branch
-3. Follow existing code style
-4. Add unit tests for new features
-5. Update documentation
-6. Submit a pull request
-
----
-
 ## 📄 License
 
 This project is created for educational purposes.
