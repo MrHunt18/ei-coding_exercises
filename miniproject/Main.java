@@ -1,7 +1,7 @@
 import manager.ScheduleManager;
 import observers.ConflictObserver;
 import observers.LoggerObserver;
-import tasks.Task;
+
 
 import java.util.Scanner;
 import java.util.logging.Logger;
