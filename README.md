@@ -463,7 +463,7 @@ This project is created for educational purposes.
 
 ## 📧 Contact
 
-For questions or feedback, please contact the development team.
+For questions or feedback, please contact me(links are in profile).
 
 ---
 
@@ -473,8 +473,4 @@ For questions or feedback, please contact the development team.
 - SOLID principles by Robert C. Martin
 - Java best practices from Oracle documentation
 
----
 
-**Made with ❤️ for Astronauts** 🚀
-
----
