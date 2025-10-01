@@ -76,6 +76,7 @@ public class Main {
         System.out.println("5. Mark Task as Completed");
         System.out.println("6. View Tasks by Priority");
         System.out.println("7. Exit");
+        System.out.println("please choose the number(1-7)");
         System.out.print("Enter your choice: ");
     }
 

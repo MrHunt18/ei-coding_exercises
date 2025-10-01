@@ -13,6 +13,7 @@ public class TaskFactory {
 
     /**
      * Creates a new task with validation
+     *
      * @throws IllegalArgumentException if validation fails
      */
     public Task createTask(String description, String startTimeStr, String endTimeStr, String priorityStr)
@@ -34,4 +35,5 @@ public class TaskFactory {
         Task task = new Task(description, startTime, endTime, priority);
         logger.info("Task created: " + description);
         return task;
- 
+    }
+}
